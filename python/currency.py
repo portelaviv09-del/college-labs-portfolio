@@ -19,4 +19,4 @@ usd3 = reais * rate_reais
 
 total_usd = usd1 + usd2 + usd3
 
-print(f"The total amount of USD is {total_usd:.2f} USD")
+print(f"The total amount of USD is ${total_usd:.2f} USD")
